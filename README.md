@@ -1,4 +1,4 @@
-# pmu
+# PMU Mentor App
 
 A new Flutter project.
 
