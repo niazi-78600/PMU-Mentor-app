@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "633713268438",
+    "project_id": "parking-pmu-app",
+    "storage_bucket": "parking-pmu-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633713268438:android:caef979496dff7dd4e5b77",
+        "android_client_info": {
+          "package_name": "com.example.pmu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633713268438-pjbupletr5828nuqagvkv7lu80l3s398.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuctrLlKGEBu7G1lP8JwUSVG08ZObL9d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633713268438-pjbupletr5828nuqagvkv7lu80l3s398.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633713268438-m9rfmba8g0jj66hljbju9oiutmdcon09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pmu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
